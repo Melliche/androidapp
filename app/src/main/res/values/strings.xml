@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MonApplicationAndroid</string>
+    <string name="retour_au_menu">Retour au menu</string>
+    <string name="textview">TextView</string>
 </resources>
