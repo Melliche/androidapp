@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MonApplicationAndroid</string>
+    <string name="retour_au_menu">Retour au menu</string>
+    <string name="choix">Choisissez le style que nourriture que vous souhaitez.</string>
+    <string name="textview">TextView</string>
+</resources>

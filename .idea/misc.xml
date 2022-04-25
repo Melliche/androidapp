@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/wamp64/www/Dev ecole/MonApplicationAndroid/app/src/main/res/drawable-anydpi/ic_viande.xml" value="0.133" />
+        <entry key="..\:/wamp64/www/Dev ecole/MonApplicationAndroid/app/src/main/res/drawable/logo_background.xml" value="0.2735" />
+        <entry key="..\:/wamp64/www/Dev ecole/MonApplicationAndroid/app/src/main/res/drawable/logo_foreground.xml" value="0.2735" />
         <entry key="..\:/wamp64/www/Dev ecole/MonApplicationAndroid/app/src/main/res/drawable/viande_background.xml" value="0.256" />
         <entry key="..\:/wamp64/www/Dev ecole/MonApplicationAndroid/app/src/main/res/layout/activity_advice.xml" value="0.16030534351145037" />
-        <entry key="..\:/wamp64/www/Dev ecole/MonApplicationAndroid/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/wamp64/www/Dev ecole/MonApplicationAndroid/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/wamp64/www/Dev ecole/MonApplicationAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.256" />
       </map>
     </option>

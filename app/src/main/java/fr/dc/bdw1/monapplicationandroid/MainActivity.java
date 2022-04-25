@@ -16,19 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding ui;
 
-//    private ActivityResultLauncher<Intent> adviceActivityResultLauncher = this.registerForActivityResult(
-//            new ActivityResultContracts.StartActivityForResult(),
-//            result -> {
-//                switch (result.getResultCode()) {
-//                    case RESULT_CANCELED:
-//                        break;
-//                    case RESULT_OK: {
-//                    }
-//                }
-//                Log.d("Mainactivity", String.valueOf(result.getResultCode()));
-//            }
-//    );
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
